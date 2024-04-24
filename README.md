@@ -21,7 +21,7 @@ The dashboard provides a clear overview of the user's financial standing, includ
 1. **Clone the repository:**
 
 ```
-git clone https://github.com/<your-username>/mirza.git
+git clone https://github.com/amiina0901/Financial-personal-tracker.git
 ```
 
 2. **Install dependencies:**
@@ -51,4 +51,6 @@ Click on the "Add Transaction" button. A form will appear where you can enter th
 The "Recent Transactions" section will display a list of your most recent transactions. You can also view all of your transactions by clicking on the "View Transactions" button.
 
 ![image](https://github.com/amiina0901/Financial-personal-tracker/assets/147413465/632c0bb0-cb00-44d2-9776-55b78c30fd73)
+![image](https://github.com/amiina0901/Financial-personal-tracker/assets/147413465/d587bbc4-d0d0-450b-845b-c3dd4e16033b)
+
 
