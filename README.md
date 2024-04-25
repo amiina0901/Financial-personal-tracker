@@ -1,4 +1,4 @@
-# Personal Finance Dashboard#
+# Personal Finance Dashboard #
 
 Personal finance dashboard application that allows users to track their income and expenses. Users can manually enter transactions, including the amount, date, name, and category.
 The dashboard provides a clear overview of the user's financial standing, including their total income, total expenses, and current balance.
